@@ -48,10 +48,10 @@ const Contact = () => {
           </span>
         </h1>
         <div className="flex flex-col sm:flex-row justify-center items-center gap-8 text-center text-gray-500 mb-12 max-w-2xl mx-auto">
-          <div className="bg-white shadow rounded-lg px-6 py-4">
+          {/* <div className="bg-white shadow rounded-lg px-6 py-4">
             <span className="block text-lg font-semibold text-blue-700">Ankit Choudhary</span>
             <span className="block text-xl font-bold text-gray-900 mt-1">+91 80065 75965</span>
-          </div>
+          </div> */}
           <div className="bg-white shadow rounded-lg px-6 py-4">
             <span className="block text-lg font-semibold text-blue-700">Prem Singh</span>
             <span className="block text-xl font-bold text-gray-900 mt-1">+91 85275 33067</span>
